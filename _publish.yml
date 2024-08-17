@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: 1443c94a-ef56-48a3-9a8f-5b2e37abbec2
+      url: 'https://tedlavie.quarto.pub/quarto_website'

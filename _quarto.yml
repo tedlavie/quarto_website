@@ -9,6 +9,12 @@ website:
     right:
       - href: index.qmd
         text: About me
+      - href: resume.qmd
+        text: Experience
+      - href: projects.qmd
+        text: Projects
+      - href: ideas.qmd
+        text: Ideas
       - icon: rss
         href: index.xml
 
